@@ -1,0 +1,11 @@
+C:\Users\Uporabnik\Source\Repos\sumnik_remover\sumnik_remover\obj\Debug\sumnik_remover.csprojAssemblyReference.cache
+C:\Users\Uporabnik\Source\Repos\sumnik_remover\sumnik_remover\obj\Debug\sumnik_remover.Form1.resources
+C:\Users\Uporabnik\Source\Repos\sumnik_remover\sumnik_remover\obj\Debug\sumnik_remover.Properties.Resources.resources
+C:\Users\Uporabnik\Source\Repos\sumnik_remover\sumnik_remover\obj\Debug\sumnik_remover.csproj.GenerateResource.cache
+C:\Users\Uporabnik\Source\Repos\sumnik_remover\sumnik_remover\obj\Debug\sumnik_remover.csproj.CoreCompileInputs.cache
+C:\Users\Uporabnik\Source\Repos\sumnik_remover\sumnik_remover\bin\Debug\sumnik_remover.exe.config
+C:\Users\Uporabnik\Source\Repos\sumnik_remover\sumnik_remover\bin\Debug\sumnik_remover.exe
+C:\Users\Uporabnik\Source\Repos\sumnik_remover\sumnik_remover\bin\Debug\sumnik_remover.pdb
+C:\Users\Uporabnik\Source\Repos\sumnik_remover\sumnik_remover\obj\Debug\sumnik_remover.exe
+C:\Users\Uporabnik\Source\Repos\sumnik_remover\sumnik_remover\obj\Debug\sumnik_remover.pdb
+C:\Users\Uporabnik\Source\Repos\sumnik_remover\sumnik_remover\obj\Debug\sumnik_remover.AboutBox1.resources
